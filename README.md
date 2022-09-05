@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👾 Currently working with Python.<br>🔬 Working on machine learning and data analysis projects<br>🎓 EEE student at Eskisehir Osmangazi University.<br>📫 How to reach me: utkubarankapisiz@gmail.com
 
 
