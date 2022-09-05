@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utku</h1>
-<h3 align="center">Data science enthusiast and engineering student.</h3>
+<h3 align="left">Data science enthusiast and engineering student.</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
 
