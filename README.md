@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utku</h1>
 <h3 align="center">Data science enthusiast and engineering student.</h3>
 
-- 🔭 I’m currently working on **ML/DL**
+- 🔭 **Check what I'm working on: https://utkubarankapisiz.my.canva.site/**
 
 - 🌱 I’m currently learning **Scikit-learn and TensorFlow**
 
