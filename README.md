@@ -3,10 +3,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=utkubarankapisiz&label=Profile%20views&color=030303&style=flat" alt="utkubarankapisiz" /> </p>
 
-- 🔭 I’m currently working on [OOP](https://github.com/UtkuBaranKapisiz/OOP_CPP)
-
-- 🌱 I’m currently learning **C++, ML, Network**
-
 - 📫 How to reach me **utkubarankapisiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
