@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://www.github.com/utkubarankapisiz">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" height="30">
 </a>
 <a href="https://www.kaggle.com/utkubarankapsz">
     <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width=80" height="30">
