@@ -1,5 +1,5 @@
-<h1 align="center">Hİ, I'm Baran! 👋</h1>
-<h3 align="center">Junior Data Scientist, Electrical and Electronics Engineering B.Sc.</h3>
+<h1 align="center">Hi, I'm Baran! 👋</h1>
+<h3 align="center">Junior Data Scientist</h3>
 
 <p align="center">Currently working on <b>Machine Learning</b> and <b>Deep Learning</b></p>
 
@@ -16,6 +16,7 @@
 
 
 ### Competitions
+- Türk Telekom Büyük Veri Kampı - **1st out of 2500+ applicants** [[GitHub Repo]](https://github.com/UtkuBaranKapisiz/tt-bootcamp/tree/ubeke/Capstone)
 - BTK Datathon 2024 - **46th out of 364 (Top 13\%)** [[Kaggle]](https://www.kaggle.com/code/utkubarankapsz/btk-datathon-2024-co-submission-private-5-92)
 
 
