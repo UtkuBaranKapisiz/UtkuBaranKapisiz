@@ -1,8 +1,13 @@
 <h1 align="center">Utku Baran Kapısız</h1>
 
 ### Competitions
-- Trendyol E-Ticaret Yarışması 2026 - **Top 13\%** 
-- Türk Telekom Büyük Veri Kampı - **1st out of 2500+ applicants**
-- ING Hubs Datathon 2025 - **Top 11\%**
-- Trendyol E-Ticaret Hackathon 2025 - **Public Top %2 - Private Top 12\%** [[Kaggle]](https://www.kaggle.com/code/utkubarankapsz/trenyol-hackathon-2025-top-12)
-- BTK Datathon 2024 - **Top 13\%** [[Kaggle]](https://www.kaggle.com/code/utkubarankapsz/btk-datathon-2024-co-submission-private-5-92)
+
+#### Honors & Awards
+- **Türk Telekom Big Data Camp 2025**: **1st Place** (Selected from 2,500+ applicants)
+- **GDZ Elektrik Grid Up Datathon 2026**: **Finalist** (Kaggle 19th / 493, Top 4%)
+
+#### Other Competitions
+- **Trendyol E-Commerce Datathon 2026**: **Top 13%** (49th / 377)
+- **ING Hubs Datathon 2025**: **Private Top 11%** (70th / 658; Public 12th / 658)
+- **Trendyol E-Commerce Hackathon 2025**: **Top 13%** (37th / 302)
+- **BTK Datathon 2024**: **Private Top 13%** (46th / 364)
